@@ -65,3 +65,9 @@ Challenges faced and areas of improvement .
 Overall the project was challenging , however not really in a negative way . It was a good type of challenging as it sort of assisted in the improvement of my understanding of  how to use android studio with kotlin and the different functions offered . 
 
 The only big challenge I  was faced with in  the duration of me working on this project would be the adding and linking some of the fuction on the different screens  for them to be executed well when the application runs smoothly. 
+
+
+
+
+
+GitCat
